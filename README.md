@@ -8,6 +8,10 @@
 
 Find more info about me on my website [psyber.city](https://psyber.city/%F0%9F%90%88)!
 
+
 I love cats 🐈🐈🐈
+
 I love web 🌐
+
 I live on 🥣 oats, cocoa and honey 🍯
+

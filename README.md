@@ -14,8 +14,10 @@ I am a senior software engineer at [Nx 🌊](https://nx.dev), working on the:
 
 ### Social
 
-More info at ---> [psyber.city](https://psyber.city/%F0%9F%90%88)!
+More info at ---> [psyber.city](https://psyber.city/%F0%9F%90%88)
+
 And on Twitter ---> [@psybercity](https://twitter.com/psybercity)
+
 And on mastodon ---> [mas.to/@psybercity](https://mas.to/@psybercity)
 
 

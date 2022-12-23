@@ -12,7 +12,11 @@ I am a senior software engineer at [Nx 🌊](https://nx.dev), working on the:
 - You can also ask me (please do) about [Firebase 🔥](https://firebase.google.com/), [Google Cloud Functions ☁️](https://firebase.google.com/docs/functions) and anything that you discover on my repos.
 - I talk a lot about what I do, so check out my website if you're interested --->
 
-Find more info about me on my website [psyber.city](https://psyber.city/%F0%9F%90%88)!
+### Social
+
+More info at ---> [psyber.city](https://psyber.city/%F0%9F%90%88)!
+And on Twitter ---> [@psybercity](https://twitter.com/psybercity)
+And on mastodon ---> [mas.to/@psybercity](https://mas.to/@psybercity)
 
 
 I love cats 🐈🐈🐈

@@ -1,6 +1,6 @@
 ## Hi I'm Katerina!
 
-I am a senior software engineer at [Nx 🌊](https://github.com/nrwl/nx), working on the:
+I am a senior software engineer at [Nx 🌊](https://nx.dev), working on the:
 - [**Storybook**](https://github.com/storybookjs/storybook) [plugin (**`@nrlw/storybook`**)](https://www.npmjs.com/package/@nrwl/storybook) and the
 - [**Vite**](https://github.com/vitejs/vite) [plugin (**`@nrlw/vite`**)](https://www.npmjs.com/package/@nrwl/vite). So AMA.
 

@@ -1,4 +1,4 @@
-## Hi I'm Katerina!
+## Hi I'm Katerina Skroumpelou!
 
 I am a senior engineer at [Nx 🌊](https://nx.dev), working mostly on:
 - [**Storybook**](https://github.com/storybookjs/storybook) [plugin (**`@nrlw/storybook`**)](https://www.npmjs.com/package/@nx/storybook)

@@ -1,8 +1,8 @@
 ## Hi I'm Katerina Skroumpelou!
 
 I am a senior engineer at [Nx 🌊](https://nx.dev), working mostly on:
-- [**Storybook**](https://github.com/storybookjs/storybook) [plugin (**`@nrlw/storybook`**)](https://www.npmjs.com/package/@nx/storybook)
-- [**Vite**](https://github.com/vitejs/vite) [plugin (**`@nrlw/vite`**)](https://www.npmjs.com/package/@nx/vite)
+- [**Storybook**](https://github.com/storybookjs/storybook) [plugin (**`@nx/storybook`**)](https://www.npmjs.com/package/@nx/storybook)
+- [**Vite**](https://github.com/vitejs/vite) [plugin (**`@nx/vite`**)](https://www.npmjs.com/package/@nx/vite)
 - [**Vue and Nuxt** plugins](https://www.npmjs.com/package/@nx/vue)
 - [**Nx ecosystem ci**](https://github.com/nrwl/nx-ecosystem-ci)
 - [**Nx AI assistant**](https://nx.dev/ai-chat)

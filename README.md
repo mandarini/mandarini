@@ -3,7 +3,7 @@
 I am an engineer at [Supabase](https://supabase.com/), working mostly on js client libraries.
 
 ### Also
-
+- I used to work at [Nx](https://nx.dev) for a loooong time - so AMA
 - I am a [Google Developer Expert](https://developers.google.com/community/experts/directory) for [Angular](https://angular.io/), Web Technologies and the [Google Maps Platform](https://cloud.google.com/maps-platform/).
 - I am a [WTM ambassador](https://www.womentechmakers.com/ambassadors/profiles/629f7b339cb5640c3d6c24f4/katerina_skroumpelou) & I am mentoring women into tech through the [Women On Top](https://womenontop.gr/) network.
 - I am the co-founder of [Angular Athens](https://meetup.com/Angular-Athens/) - follow us [@AthensAngular](https://twitter.com/AthensAngular).
